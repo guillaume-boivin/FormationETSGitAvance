@@ -1,3 +1,3 @@
-#Formation ETA - Git avancée#
+# Formation ETA - Git avancée
 
 Projet full trop malade !
